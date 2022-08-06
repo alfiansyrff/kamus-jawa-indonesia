@@ -1,0 +1,12 @@
+:root {
+    --bs-font-sans-serif: 'Rubik', sans-serif;
+}
+
+body {
+    background: #FFEFBA; 
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA); 
+    background: linear-gradient(to right, #FFFFFF, #FFEFBA); 
+    height: 100vh;
+    overflow: hidden;
+}
+
